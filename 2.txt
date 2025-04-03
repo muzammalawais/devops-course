@@ -1,1 +1,1 @@
-this is the second file for the ubuntu.
+this is the second file for the os
